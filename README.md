@@ -17,7 +17,7 @@ Git
 
 ### Installation instruction
 ```
-
+git clone git@github.com:wesley-ali/Code-Challenge-Arrays.git
 
 ```
 
@@ -31,7 +31,7 @@ Github
 Javascript
 
 ## Support and contact details
-
+github.com/wesley-ali
 
 ### License
 The content of this site is licensed under the MIT license
